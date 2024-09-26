@@ -73,7 +73,7 @@ Here are some statistics about my GitHub profile:
 
 - **GitHub**: [NancyXu621](https://github.com/NancyXu621)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [3219872797@qq.com](mailto:3219872797@qq.com)
 
 Feel free to explore my repositories and reach out if you have any questions or opportunities to collaborate. I'm always excited to work on new and challenging projects!
 
