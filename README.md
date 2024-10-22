@@ -57,17 +57,8 @@ Welcome to my GitHub profile! I am a passionate Frontend Developer with a strong
 
 Here are some statistics about my GitHub profile:
 
-<p align="center">
-  <a href="https://github.com/NancyXu621">
-    <img src="https://github-readme-stats.vercel.app/api?username=NancyXu621&show_icons=true&hide_title=true&hide_rank=true&hide=prs&include_all_commits=true&count_private=true&theme=radical" alt="Nancy Xu's GitHub Stats">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NancyXu621">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NancyXu621&hide=html&layout=compact&theme=radical" alt="Nancy Xu's Top Languages">
-  </a>
-</p>
+![NancyXu621's GitHub stats](https://github-readme-stats.vercel.app/api?username=NancyXu621&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NancyXu621&layout=compact&theme=radical)](https://github.com/NancyXu621)
 
 ## 📫 Get in Touch
 
